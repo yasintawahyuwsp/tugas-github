@@ -1,2 +1,2 @@
-# tugas-github
+# latihan-github
 Latihan membuat repository
