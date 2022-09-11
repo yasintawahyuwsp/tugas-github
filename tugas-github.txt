@@ -2,3 +2,4 @@ Tugas 1 GitHub
 - Membuat file baru
 - Membuat file yang minimal 3 kali commit
 - Nilai tambahan bagi yang menambahkan branch
+- Dikumpulkan Senin, 12 September 2022 pukul 16.00
