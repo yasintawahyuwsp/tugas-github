@@ -1,0 +1,4 @@
+Tugas 1 GitHub
+- Membuat file baru
+- Membuat file yang minimal 3 kali commit
+- Nilai tambahan bagi yang menambahkan branch
